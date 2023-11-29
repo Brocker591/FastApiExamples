@@ -1,0 +1,6 @@
+# Install eigener Packages
+
+Über die pyproject.toml können eigene Packages erstellt werden hierzu wird dieser Befehl benötigt
+
+pip install -e .
+
